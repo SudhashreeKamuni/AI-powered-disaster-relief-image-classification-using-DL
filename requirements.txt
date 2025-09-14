@@ -1,0 +1,16 @@
+# Core
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+Pillow
+
+# Deployment
+flask
+flask-ngrok
+
+# Optional (for Colab/Drive handling)
+gdown
